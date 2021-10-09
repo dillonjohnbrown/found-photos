@@ -12,6 +12,14 @@ html {
 body {
 	padding: 4rem;
 	background: rgb(0, 0, 0);
+  color: white;
+  font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Ubuntu, roboto, noto, arial, sans-serif;
+}
+p {
+  margin-bottom: 3rem;
+}
+a {
+  color: #30A2FC;
 }
 .container {
   width: 60%;
